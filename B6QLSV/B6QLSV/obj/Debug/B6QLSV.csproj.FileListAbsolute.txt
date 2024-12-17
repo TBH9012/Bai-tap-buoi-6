@@ -1,0 +1,15 @@
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\B6QLSV\B6QLSV\bin\Debug\B6QLSV.exe.config
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\B6QLSV\B6QLSV\bin\Debug\B6QLSV.exe
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\B6QLSV\B6QLSV\bin\Debug\B6QLSV.pdb
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\B6QLSV\B6QLSV\bin\Debug\EntityFramework.dll
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\B6QLSV\B6QLSV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\B6QLSV\B6QLSV\bin\Debug\EntityFramework.xml
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\B6QLSV\B6QLSV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\B6QLSV\B6QLSV\obj\Debug\B6QLSV.csproj.AssemblyReference.cache
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\B6QLSV\B6QLSV\obj\Debug\B6QLSV.frmQuanLySV.resources
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\B6QLSV\B6QLSV\obj\Debug\B6QLSV.Properties.Resources.resources
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\B6QLSV\B6QLSV\obj\Debug\B6QLSV.csproj.GenerateResource.cache
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\B6QLSV\B6QLSV\obj\Debug\B6QLSV.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\B6QLSV\B6QLSV\obj\Debug\B6QLSV.csproj.Up2Date
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\B6QLSV\B6QLSV\obj\Debug\B6QLSV.exe
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\B6QLSV\B6QLSV\obj\Debug\B6QLSV.pdb
